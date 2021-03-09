@@ -34,7 +34,7 @@ function Navbar() {
         <>
         <nav className="navbar">
             <div className="navbar-container">
-                <Link to="/" className="navBar-logo" onClick={closeMobileMenu}>
+                <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
                     TRVL <i class="fas fa-spa"></i>
                 </Link>
                 <div className="menu-icon" onClick={handleClick}>
