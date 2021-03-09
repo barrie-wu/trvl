@@ -14,13 +14,13 @@ function Cards() {
                             src="assets/image-1.jpg"
                             text="Find your own personal oasis in a beautiful beach-front villa"
                             label="Luxury"
-                            path="/services"
+                            path="/products"
                         />
                         <Carditem
                             src="assets/image-3.jpg"
                             text="All-inclusive private luxury villas equipped with everything you need and so much more"
                             label="Private"
-                            path="/services"
+                            path="/products"
                         />
                     </ul>
                     <ul className="cards__items">
