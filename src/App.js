@@ -18,6 +18,7 @@ function App() {
         <Route path="/products" exact component={Products} />
         <Route path="/sign-up" exact component={SignUp} />
       </Switch>
+      <Footer />
     </Router>
     </>
   );
